@@ -6,7 +6,7 @@ function logar(u,s){
     senha=s; 
     if(nome=="teste" &&  senha=="123"){
         alert("Logado com Sucesso!");
-        window.location.href = "home.html"; //Redirecionamento para a página home.html  
+        window.location.href = "mercado.html"; //Redirecionamento para a página home.html  
     }
     
     else if(nome=="teste" && senha!="123"){
